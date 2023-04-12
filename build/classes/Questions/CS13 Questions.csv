@@ -1,0 +1,145 @@
+It provided a standard notation for computer scientists to publish algorithms in journals.,ALGOL,Java,C,Python,A, , 
+Who developed the model of computation which is widely known as lambda calculus?,John McCarthy,Alonzo Church,John von Neumman,Bjarne Stroustrup,B, , 
+Which part indicates the type of operation to be performed in a 16-bit machine language?,The first 4 digits,The last 4 digits,The first and last 4 digits,The digits in between the first and last digits,A, , 
+Which among the following languages is not considered as a  scripting language?,JavaScript,Perl,Ruby,None of the Above ,D, , 
+These are languages that are used in high special-purpose areas only.,Scripting Languages,Machine Languages,Domain-specific Languages,System Languages,C, , 
+Programming with an explicit sequence of commands that update state refers to what programming paradigm?,Structured,Procedural,Imperative ,Declarative ,C, , 
+It is the language that are designed for writing low-level tasks (memory and process management).,Machine Language,Scripting Language,System Language,Visual Language,C, , 
+What input device programmer used to type their assembly language code into the machine?,Card reader,Keypunch machine,Joystick,Keyboard,B, , 
+Who developed FORTRAN?,John Backus,John von Neumann,John Ousterhout,Bjarne Stroustrup,A, , 
+Which is not a benefit of knowing different concepts of programming languages?,Better use of languages that you haven't known.,Overall advancement of computation ,Increased your ability to learn new languages.,Increased your capacity to express.,A, , 
+It is a function that should be called only from within the file in which it is declared.,Static function,Recursive function,Function,None of the above,A, , 
+Which among the following statements is false about procedural languages?,These are used to define the actions that a computer has to follow to solve a particular problem.,It is either compiled or interpreted depending on the purpose of its creation.,High-level form of procedural language eliminates the time- consuming task of expressing algorithms in lower-level languages.,All statements are true.,D, , 
+Why does splitting the source code into modules the best approach in writing programs?,It is much simpler to reuse code that is in a self-contained module or file.,It is easier to edit and navigate ,It is slightly easier to isolate compile-time and run-time bugs.,All of the above,D, , 
+Procedure is/are also called ______.,Routines and Subroutines,Methods,Function,All of the above,A, , 
+A function calling itself is reffered to as_____.,Recall,Return,Recursive,Callback,C, , 
+A function can _______.,take no arguments,return nothing,can take an arguments and can return values,All of the above.,D, , 
+All executable code in C programming is contained _______ the function.,below,within,outside,before,B, , 
+The main() function is _____ to run when the program starts.,the first one,the second one,not a priority,unable,A, , 
+What is Procedural Programming?,It is a list or set of instructions telling the computer what to do step-by-step.,It is a programming by specifying a set of facts and rules.,It is programming that manipulates the program elements themselves.,It is a programming that specifies the result you want but not how to get it.,A, , 
+Procedures might be called ________ .,at any point during a program’s execution,by other procedures,by itself,All of the above.,D, , 
+Functional programming is commonly used in _______.,Bio-informatics ,Statistical analysis,Financial modeling,All of the above.,D, , 
+It pertains to functions without side-effects.,first-class functions,pure functions,static functions,recursive functions,B, , 
+Which of the following primitive wrapper classes are immutable ?,Byte,Boolean,Integer,All of the above,D, , 
+They are a form of nested functions wherein they allow access to variables in the scope of the containing function.,Lambda functions,Static functions,Recursive functions,None of the above,A, , 
+It is deemed impossible to create a ___________ in pure functional programming language.,immutable objects,mutable objects,both a and b,none of the above,C, , 
+Which of the following statements is not true about pattern matching ?,It refers to matching objects against other objects.,It allows fewer lines of variable assignment and more lines of understandable code.,It cannot be used to decompose structured values.,Both a and b,C, , 
+These functions accept either another function as an argument or a return function.,recursive functions,first-class functions,pure functions,static functions,B, , 
+In this type of evaluation the variable isn't actually assigned until the first time it is used.,Non - strict evaluation,Strict evaluation ,Static evaluation ,Specific evaluation,A, , 
+Through the use of this feature it allows languages where functions are not first - class to write higher order functions.,Function pointers or delegates,Variables,Static functions,Immutable variables ,A, , 
+What is Referential Transparency means?,It means that an expression can be a function call.,It means that it can receive a set of inputs.,It means that it can be used to associate a function with variable.,It means that an expression can be replaced by its values.,D, , 
+Which of the choices below is not important when creating/using methods?,the name of the method,the number of parameters,the number of functions,the data type of each parameter,C, , 
+Which of the following statements is not true about an abstract class?,It can contain instance variables and non-abstract methods.,An abstract class cannot contain an abstract method.,An abstract class can contain an abstract method.,An object of an abstract class cannot be instantiated.,B, , 
+Which of the following languages is not considered as object-oriented?,C++,C#,C,Java,C, , 
+A module is _____ if it has a well-defined stable interface that all other modules must use and that limits the interaction and potential errors that can occur in one module by changes in another.,open,closed,inherited,None of the above ,B, , 
+If a member of a class is _______ then it cannot be accessed outside the class.,public,private ,protected,declared without any modifiers ,B, , 
+Which of the following cannot be considered as one of the properties of a constructor?,The name of a constructor is the same as the name of a class.,A constructor can have a return type.,A class can have more than one constructor.,Each constructors must have its unique signature.,B, , 
+Creating an object of a class type means to _______.,declare a reference variable of another class type,instantiate the class object,store the address of the object into the reference variable declared,Both b and c,D, , 
+What kind of programming paradigm is based on the concept of objects?,Procedural Programming Paradigm,Object-oriented Programming Paradigm,Functional Programming Paradigm,Imperative Programming Paradigm,B, , 
+What kind of class can be instantiated?,Abstract class,Private class,Concrete class,Public class,C, , 
+What can we do to avoid the user to have a direct access to the variables in a class?,Make the variables public and create a try-catch block every time variable will be used to restrict the variable usage.,Make the variable inaccessible to the class.,Make the class private and declare the variable as static.,Make the variables private and create getVariable and setVariable methods in the class.,D, , 
+It is a programming paradigm in which the flow of the program is determined by events.,Event-driven Programming Paradigm,Procedural Program In Paradigm,Declarative Programming Paradigm,Functional Programming Paradigm,A, , 
+The task of the GUI programmer in an event-driven programming paradigm is to create the user interface and what other task.,Provides the scheduler,Creates the event queue,Write the event handler code,Creates JSON files,C, , 
+It is an action taken by a user at a particular point in time in a program.,Swing events,GUI,DOS,ActionListener,A, , 
+What is the source of an event?,It represents the action that takes place on the source components.,It is the piece of code that is executed when an event occured.,It is the component that generates the event.,It is the code to handle the event.,C, , 
+What GUI stands for?,Graphical Usage Interaction,Graphic Usage Interface,Graphical User Interphase,Graphical User Interface,D, , 
+What is an event?,It represents the action that takes place on the source components.,It is the piece of code that is executed when an event occured,It is the component that generates th event,It is the code to handle the event,A, , 
+What is an event handler in Event-driven programming paradigm?,It represents the action that takes place on the source components.,It is the piece of code that is executed when an event occured,It is the component that generates th event,It is the code to handle the event,B, , 
+How an event handler is written depends on the type of _______ and the component that generates the event.,event ,source of the event ,event listener ,None of the above ,A, , 
+Which of the following is not true about handling mouse events?,One of the methods of the MouseListener interface is called when a specific mouse event occurs.,One can use a lambda expression to create a mouse event handler.,An object of the MouseEvent class represents a mouse event on a component.,None of the above,B, , 
+Which event listener interface do not have a corresponding adapter class?,ActionListener interface,MouseListener interface,KeyListener interface,None of the above,A, , 
+It is a programming paradigm that expresses the logic in the competition without describing its control flow.,Declarative programming,Imperative programming,Event-driven programming,Procedural programming,A, , 
+It's a programming language in which programs are made up of logical statements that are executed by looking for proofs of those statements.,Functional Programming Languages,Procedural Programming Languages,Logical Programming Language,Imperative Programming Languages,C, , 
+What do we call the logic programming languages' semantics?,Declarative semantics,Imperative semantics,Procedural semantics,Private semantics,A, , 
+Which of the option below is a weakness of the logic programming paradigm?,Enormous simplicity and conciseness.,The restrictions to one control mechanism and the use of a single data type.,Hard to understand.,Easy to be conceived.,B, , 
+It refers to the fact that symbols are used to express properties of elements of a fix domain of discourse D.,Alphabet,Symbols,Set,First order logic,D, , 
+Which of the following did PL/I incorporated from FORTRAN ?,file manipulation,formatted input/output,block structure ,linked structures,B, , 
+Pascal was developed by __________.,Nicklaus Wirth,Jacques Herbrand,Alan Robinson,Robert Kowalski,A, , 
+Which of the following did PL/I incorporated from COBOL ?,block structure ,structured control statements,file manipulation,formatted input/output,C, , 
+When imperative programming is combined with subprograms it is called __________.,functional programming ,object-oriented programming ,event-driven programming ,procedural programming ,D, , 
+It allows us to express properties of terms that are properties of a specific domain of interest from a semantic standpoint.,Alphabet,Term,Formulae ,None of the above,C, , 
+It is one of the three basic design patterns categories that create an object for a programmer to use.,Creational,Structural,Behavioral,Builder,A, , 
+This type of pattern is all about communication and flow control.,Creational,Structural,Behavioral,Builder,C, , 
+This type of pattern or about composing several objects into larger structures.,Creational,Structural,Behavioral,Builder,B, , 
+It is one of the standard creational patterns which is a generalization of the object constructor.,Factory,Singleton,Builder,Facade,A, , 
+This type of structural design patterns allows one to convert the interface from one object into another interface that may be more useful.,Facade,Flavored,Proxy,Adapter pattern,D, , 
+Which of the following statements is true about using design patterns?,It capture solutions that have been successfully applied to problems.,It becomes difficult to share your code and thought to other team members.,A design pattern can be used to solve single design problem.,Both a and b ,A, , 
+It provides an implementation that constructs the individual components of the product.,Builder,Concrete  Builder,Director,Both b and c,B, , 
+Which of the option below is not a behavioral patterns.,Command,Interpreter,Builder,Observer,C, , 
+This pattern represents a complex or resource consuming object with something simpler.,Decorator,Proxy,Flyweight,Singleton,B, , 
+Which of the following statements is true on when to use  a factory method?,A class can anticipate which kind of class objects that it must create.,A class uses its subclasses to specify which objects it creates.,You dont want to localize the knowledge of which class gets created.,Both a and b,B, , 
+What is the expected output of the given code snippet?,I am happy.,I am sad., I am happy,I am sad,A,Images/Part2_Q1.png,1
+What is the expected output of the given code snippet?,1,2,3,4,B,Images/Part2_Q2.png,1
+What is the expected output of the given code snippet?,c is 65,c is a,c is A,Runtime Error,C,Images/Part2_Q3.png,1
+What is the missing code from the given code snippet?,Static,Abstract,static,abstract,C,Images/Part2_Q4.png,1
+What is the expected output of the given code snippet?,Hello.,IOException,str,Hello,C,Images/Part2_Q5.png,1
+What is the expected output of the given code snippet?,World,str,HelloWORLD,Hello,D,Images/Part2_Q6.png,1
+What is the expected output of the given code snippet?,Hellohello,helloHello,hello,Hello,A,Images/Part2_Q7.png,1
+What is the missing code from the given code snippet?,import java.io.file;,Import java.io.File;,import java.io,import java.io.File;,D,Images/Part2_Q8.png,1
+What is the missing code from the given code snippet?,Extends,implements,extends,Implements,B,Images/Part2_Q9.png,1
+What is the expected output of the given code snippet?,Welcome!!!Welcome!!!Welcome!!!,Welcome!!!,Welcome!!!Welcome!!!,Welcome!!!Welcome!!!Welcome!!!Welcome!!!,B,Images/Part2_Q10.png,1
+What is the expected output of the given code snippet?,Images/Part2_Q11A.png,Images/Part2_Q11B.png,Images/Part2_Q11C.png,Images/Part2_Q11D.png,A,Images/Part2_Q11.png,2
+What is the expected output of the given code snippet?,Images/Part2_Q12A.png,Images/Part2_Q12B.png,Images/Part2_Q12C.png,Images/Part2_Q12D.png,B,Images/Part2_Q12.png,2
+What is the expected output of the given code snippet?,Images/Part2_Q13A.png,Images/Part2_Q13B.png,Images/Part2_Q13C.png,Images/Part2_Q13D.png,C,Images/Part2_Q13.png,2
+What is the expected output of the given code snippet?,Images/Part2_Q14A.png,Images/Part2_Q14B.png,Images/Part2_Q14C.png,Images/Part2_Q14D.png,D,Images/Part2_Q14.png,2
+Select from the given code snippet the code that will be able to print the nodes using post order traversal.,Images/Part2_Q15A.png,Images/Part2_Q15B.png,Images/Part2_Q15C.png,Images/Part2_Q15D.png,A, ,3
+Select from the given code snippet the code that will be able to print the nodes using pre-order traversal.,Images/Part2_Q16A.png,Images/Part2_Q16B.png,Images/Part2_Q16C.png,Images/Part2_Q16D.png,C, ,3
+Determine which among the choices is the correct output of the given C program.,Images/Part2_Q17A.png,Images/Part2_Q17B.png,Images/Part2_Q17C.png,Images/Part2_Q17D.png,A,Images/Part2_Q17.png,2
+What is the expected output of the given Java code below?,truetrue,truefalse,falsetrue,falsefalse,A,Images/Part2_Q18.png,1
+What is the missing code in the given C program below?,Images/Part2_Q19A.png,Images/Part2_Q19B.png,Images/Part2_Q19C.png,Images/Part2_Q19D.png,B,Images/Part2_Q19.png,2
+What is the missing code in the given C program below?,Images/Part2_Q20A.png,Images/Part2_Q20B.png,Images/Part2_Q20C.png,Images/Part2_Q20D.png,C,Images/Part2_Q20.png,2
+What is the output of the given code below if the numbers |5|3|9|18|14|39| are inserted in the array respectively?,Images/Part2_Q21A.png,Images/Part2_Q21B.png,Images/Part2_Q21C.png,Images/Part2_Q21D.png,A,Images/Part2_Q21.png,2
+What is the output of the given code below if the numbers |10|12|14|27|28|16| are inserted in the array respectively?,Images/Part2_Q22A.png,Images/Part2_Q22B.png,Images/Part2_Q22C.png,Images/Part2_Q22D.png,B,Images/Part2_Q22.png,2
+Identify the missing line of code in the given C program below in order to implement bubble sort.,data[ j ],data[ j +1],data[j-1],data[j * 1],B,Images/Part2_Q23.png,1
+Select from the options below the code that will correctly push an element to the top of the stack.,Images/Part2_Q24A.png,Images/Part2_Q24B.png,Images/Part2_Q24C.png,Images/Part2_Q24D.png,A, ,3
+What is the expected output of the given code snippet?,5  3  2  5  2,3  5  3  5  2,3  5  2  5  2,2  3  5  2  3,C,Images/Part2_Q25.png,1
+What is the expected output of the given code snippet?,Num is even.,Num is odd.,Semantic error,Compiler Error,B,Images/Part2_Q26.png,1
+What is the expected output of the given code snippet?,z = 28,z = 28 /n,z = 28 \n z = 28,z = 28 /n z = 28 /n,B,Images/Part2_Q27.png,1
+What is the missing code from the given code snippet?,#include <studio.h>,#include <math.h>;,#include <stdlib.h>;,#include <stdio.h>;,D,Images/Part2_Q28.png,1
+What is the expected output of the given code snippet?,19,1,23,0,D,Images/Part2_Q29.png,1
+What is the expected output of the given code snippet?,1,3,5,9,C,Images/Part2_Q30.png,1
+What is the expected output of the given code snippet?,1,3,5,9,A,Images/Part2_Q31.png,1
+What is the expected output of the given code snippet?,Hello,Hi,Good morning.,0,C,Images/Part2_Q32.png,1
+What is the expected output of the given code snippet?,02,22,0,2,A,Images/Part2_Q33.png,1
+What is the expected output of the given code snippet?,15 and 14,14 and 14,15 and 15,14 and 15,A,Images/Part2_Q34.png,1
+Which of the given code snippet that outputs "It is a palindrome"?,Images/Part2_Q35A.png,Images/Part2_Q35B.png,Images/Part2_Q35C.png,Images/Part2_Q35D.png,C, ,3
+Which of the given code snippet that outputs "It is an armstrong number"?,Images/Part2_Q36A.png,Images/Part2_Q36B.png,Images/Part2_Q36C.png,Images/Part2_Q36D.png,D, ,3
+Which of the given code snippet prints "Hello"?,Images/Part2_Q37A.png,Images/Part2_Q37B.png,Images/Part2_Q37C.png,Images/Part2_Q37D.png,A, ,3
+Which of the given code snippet convert a decimal number into a binary?,Images/Part2_Q38A.png,Images/Part2_Q38B.png,Images/Part2_Q38C.png,Images/Part2_Q38D.png,B, ,3
+Which of the given code snippet convert a decimal number into an octal?,Images/Part2_Q39A.png,Images/Part2_Q39B.png,Images/Part2_Q39C.png,Images/Part2_Q39D.png,C, ,3
+What is the expected output of the given code snippet?,Hello,Hi,Good morning,0,A,Images/Part2_Q40.png,1
+Identify the missing code in the given code snippet.,int,float ,boolean,char,B,Images/Part2_Q41.png,1
+What is the expected output of the C program below?,The value of y is 7 and the value of z is 6.,The value of y is 6 and the value of z is 6.,The value of y is 6 and the value of z is 7.,The value of y is 7 and the value of z is 7.,B,Images/Part2_Q42.png,1
+What is the expected output of the C program below?,9 9 8 8,10 9 9 8,10 9 8 8,9 9 8 8,C,Images/Part2_Q43.png,1
+What is the missing code in the given code snippet?,char str [6],char  str,String,Char str[6],A,Images/Part2_Q44.png,1
+What is the expected output of given code below?,Smile Hello Smile Hello Smile,Hello Hello Hello Hello Hello,Hello Hello,Hello Smile Hello Smile Hello,B,Images/Part2_Q45.png,1
+Which of the following code can provide the output below?,Images/Part2_Q46A.png,Images/Part2_Q46B.png,Images/Part2_Q46C.png,Images/Part2_Q46D.png,B,Images/Part2_Q46.png,2
+What is the expected output of the given C program below?,5 Programming Programming 11,4 Learn Programming 5,4 Learn Learn 5,6 Learn Learn 11,C,Images/Part2_Q47.png,1
+What is the expected output of the given code below?,The strings are not equal.,The strings are equal.,No output,Compilation Error,A,Images/Part2_Q48.png,1
+Which of the following code can provide the output below?,Images/Part2_Q49A.png,Images/Part2_Q49B.png,Images/Part2_Q49C.png,Images/Part2_Q49D.png,B,Images/Part2_Q49.png,2
+What is the expected output of the given C program below?,Images/Part2_Q50A.png,Images/Part2_Q50B.png,Images/Part2_Q50C.png,Images/Part2_Q50D.png,A,Images/Part2_Q50.png,2
+What is the type of the variable length?,Boolean,Int,Float,String,D,Images/Part2_Q51.png,1
+Which of the following code snippet does not print the variable name's value?,Images/Part2_Q52A.png,Images/Part2_Q52B.png,Images/Part2_Q52C.png,Images/Part2_Q52D.png,D, ,3
+What is the expected output of the given code snippet?,-2,0,2,6,A,Images/Part2_Q53.png,1
+Which of the code snippet executes the given code?,import math,import math.pi,import pi,from math import pi,D,Images/Part2_Q54.png,1
+What will be the output of the code below?,Images/Part2_Q55A.png,Images/Part2_Q55B.png,Images/Part2_Q55C.png,Images/Part2_Q55D.png,B,Images/Part2_Q55.png,2
+What will be the output of the code below?,Images/Part2_Q56A.png,Images/Part2_Q56B.png,Images/Part2_Q56C.png,Images/Part2_Q56D.png,A,Images/Part2_Q56.png,2
+What code is required to make the code below output 'x'?,x+=x,break;,x+=1,x = x + x,C,Images/Part2_Q57.png,1
+What code is required to make an output like the given image?,Images/Part2_Q58A.png,Images/Part2_Q58B.png,Images/Part2_Q58C.png,Images/Part2_Q58D.png,C,Images/Part2_Q58.png,2
+Which of the code below is not the proper way of creating a fucntion in python?,def hello():,def add(left):,def subtract(add):,def hello(name);,D, ,4
+What is the expected output of the given Python program below?,Images/Part2_Q60A.png,Images/Part2_Q60B.png,Images/Part2_Q60C.png,Images/Part2_Q60D.png,B,Images/Part2_Q60.png,2
+What is the expected output of the given Python program below?,GraceGraceGraceGraceGraceGraceGraceGrace,GraceGraceGraceGrace,Grace,Compilation Error,A,Images/Part2_Q61.png,1
+Select from the options the code that will print the output below.,Images/Part2_Q62A.png,Images/Part2_Q62B.png,Images/Part2_Q62C.png,Images/Part2_Q62D.png,B,Images/Part2_Q62.png,2
+Select from the options the code that will print the output below.,Images/Part2_Q63A.png,Images/Part2_Q63B.png,Images/Part2_Q63C.png,Images/Part2_Q63D.png,A,Images/Part2_Q63.png,2
+What is the expected output of the given Python program below?,56,32,8,87,B,Images/Part2_Q64.png,1
+What is the expected output of the given Python program below?,6561  81,36  12,No output ,Compilation Error ,A,Images/Part2_Q65.png,1
+Which of the given code snippet does not print "I am learning! Horray!"?,Images/Part2_Q66A.png,Images/Part2_Q66B.png,Images/Part2_Q66C.png,Images/Part2_Q66D.png,D, ,3
+What is the expected output of the given C++ program below?,Pizza,food,food = pizza,Compilation error,A,Images/Part2_Q67.png,1
+Which of the given code snippet prints "99"?,Images/Part2_Q68A.png,Images/Part2_Q68B.png,Images/Part2_Q68C.png,Images/Part2_Q68D.png,C, ,3
+The logical NOT operator in C++ has the following notation:,not,!,:,|,B, ,4
+The header file that must be included in a C++ program when using the cout function is,#include <conio.h>,#include <math.h>,#include <iostream.h>,#include <stdio.h>,C, ,4
+What is the expected output of the given C++ program below?,Images/Part2_Q71A.png,Images/Part2_Q71B.png,Images/Part2_Q71C.png,Images/Part2_Q71D.png,A,Images/Part2_Q71.png,2
+What is the expected output of the given C++ program below?,7,8,5,Compilation Error,B,Images/Part2_Q72.png,1
+Select from the options the code that will print the output below.,Images/Part2_Q73A.png,Images/Part2_Q73B.png,Images/Part2_Q73C.png,Images/Part2_Q73D.png,A,Images/Part2_Q73.png,2
+Which of the options below copies a specified bytes of data from source to destination?,Images/Part2_Q74A.png,Images/Part2_Q74B.png,Images/Part2_Q74C.png,Images/Part2_Q74D.png,A, ,3
+What is the expected output of the given C++ program below?,The current size of the list is : 5,The current size of the list is : 4,The current size of the list is : 3,Compilation Error,C,Images/Part2_Q75.png,1
